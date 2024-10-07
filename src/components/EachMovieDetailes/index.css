@@ -1,0 +1,39 @@
+.detailes-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: right;
+  width: 250px;
+
+  border: 1px solid gray;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 5px;
+}
+.profail {
+  height: 100px;
+  width: 100px;
+  border-radius: 100px;
+  color: white;
+  font-size: 10px;
+}
+.profail-container {
+  height: 100px;
+  width: 100px;
+}
+
+.name,
+.originalName {
+  color: white;
+  margin: 0px;
+}
+.span-name {
+  color: rgb(140, 108, 172);
+  margin: 0px;
+  font-family: Roboto;
+}
+.span-detailes {
+  color: rgb(167, 223, 167);
+  margin: 0px;
+  font-family: Roboto;
+}

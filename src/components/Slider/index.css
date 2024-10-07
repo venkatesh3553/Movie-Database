@@ -1,0 +1,22 @@
+.slider-container {
+  display: flex;
+  justify-content: right;
+  align-items: center;
+}
+.button {
+  height: 32px;
+  width: 100px;
+  background-color: transparent;
+  border: 1px solid greenyellow;
+  color: white;
+  border-radius: 10px;
+  font-weight: bold;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+.page-no {
+  font-size: 17px;
+  font-weight: bold;
+  font-family: Roboto;
+  color: rgb(231, 196, 21);
+}

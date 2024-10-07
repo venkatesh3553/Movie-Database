@@ -1,0 +1,23 @@
+.home-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.home-bg-container {
+  background-color: rgb(24, 10, 32);
+  padding: 0px;
+  min-height: 100vh;
+}
+.head {
+  color: white;
+  font-size: 18px;
+  text-align: center;
+}
+.loader-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}

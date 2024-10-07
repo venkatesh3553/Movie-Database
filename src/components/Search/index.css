@@ -1,0 +1,12 @@
+.empty-view-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+.error-img {
+  height: 303px;
+  width: 300px;
+  border-radius: 10px;
+}
